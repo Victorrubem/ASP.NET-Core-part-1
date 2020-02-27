@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\CURSOS\\ASP.NET Core MVC\\ASPNETCore\\Aulas\\Aula1\\CasaDoCodigo\\CasaDoCodigo.csproj": {}
+    "C:\\Projetos\\CURSOS\\ASP.NET Core MVC\\ASP.NET-Core-part-1\\CasaDoCodigo.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\CURSOS\\ASP.NET Core MVC\\ASPNETCore\\Aulas\\Aula1\\CasaDoCodigo\\CasaDoCodigo.csproj": {
+    "C:\\Projetos\\CURSOS\\ASP.NET Core MVC\\ASP.NET-Core-part-1\\CasaDoCodigo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CURSOS\\ASP.NET Core MVC\\ASPNETCore\\Aulas\\Aula1\\CasaDoCodigo\\CasaDoCodigo.csproj",
+        "projectUniqueName": "C:\\Projetos\\CURSOS\\ASP.NET Core MVC\\ASP.NET-Core-part-1\\CasaDoCodigo.csproj",
         "projectName": "CasaDoCodigo",
-        "projectPath": "C:\\Projetos\\CURSOS\\ASP.NET Core MVC\\ASPNETCore\\Aulas\\Aula1\\CasaDoCodigo\\CasaDoCodigo.csproj",
+        "projectPath": "C:\\Projetos\\CURSOS\\ASP.NET Core MVC\\ASP.NET-Core-part-1\\CasaDoCodigo.csproj",
         "packagesPath": "C:\\Users\\victor.rubem\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CURSOS\\ASP.NET Core MVC\\ASPNETCore\\Aulas\\Aula1\\CasaDoCodigo\\obj\\",
+        "outputPath": "C:\\Projetos\\CURSOS\\ASP.NET Core MVC\\ASP.NET-Core-part-1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,7 +43,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.All": {
               "target": "Package",
-              "version": "[2.0.6, )"
+              "version": "[2.0.9, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
